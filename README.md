@@ -1,4 +1,5 @@
 # BCG-GEN-AI-FORAGE-2026
+!(bcg.png)
 AI-powered financial chatbot analyzing SEC 10-K filings — BCG GenAI Job Simulation (Forage)
 # BCG GenAI Job Simulation — Forage (2026)
 
