@@ -37,4 +37,4 @@ Analyzing corporate financial performance from SEC 10-K filings for Microsoft, T
 - `GEN_AI_TASK_1_nicholas_ciputra.html` — full data analysis notebook
 - `chatbot_documentation.md` — chatbot documentation
   
-##![BCG GenAI Certificate](genai%20nicholas%20ciputra.png)
+![BCG GenAI Certificate](genai%20nicholas%20ciputra.png)
