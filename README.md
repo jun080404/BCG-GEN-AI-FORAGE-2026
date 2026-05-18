@@ -1,7 +1,7 @@
 # BCG-GEN-AI-FORAGE-2026
 
 
-![BCG Logo](bcg.png)
+![BCG Logo](bcglogo.png)
 
 
 
